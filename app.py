@@ -1,5 +1,4 @@
 a = 10
-b = 20
-
+b = 10
 total = a + b
 print("Sum:", total)
